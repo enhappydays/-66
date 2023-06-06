@@ -1,0 +1,5 @@
+<view class="container" bindtap="handleJump">
+  载入腾讯云 IM 分包
+ 
+</view>
+
